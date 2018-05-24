@@ -5,9 +5,9 @@
   <subtitle>JUST TRY!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="soupure.cn/"/>
+  <link href="/"/>
   <updated>2017-10-11T07:05:20.664Z</updated>
-  <id>soupure.cn/</id>
+  <id>/</id>
   
   <author>
     <name>Soup-Pure</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="soupure.cn/hello-world/"/>
-    <id>soupure.cn/hello-world/</id>
+    <link href="/hello-world/"/>
+    <id>/hello-world/</id>
     <published>2017-10-11T07:05:20.663Z</published>
     <updated>2017-10-11T07:05:20.664Z</updated>
     
