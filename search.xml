@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[个人steam库中游戏总集]]></title>
-    <url>%2F%E4%B8%AA%E4%BA%BAsteam%E5%BA%93%E4%B8%AD%E6%B8%B8%E6%88%8F%E6%80%BB%E9%9B%86%2F</url>
-    <content type="text"><![CDATA[soupure个人电脑游戏整理(持续更新~)单机游戏 死亡细胞 （DeadCell） -像素风格ACT游戏 rouguelike元素 空洞骑士 （Hollow_knight） -2D动作小清新游戏 过山车之星 （Planet Coaster） -模拟游乐园游戏 巫师 3 （The Witcher 3 Wild Hunt） -动作类RPG（波兰蠢驴良心制作,赠2个DLC） 看门狗 （Watch Dogs） -育碧产动作冒险游戏 黑客元素 层层恐惧（Layers of Fear） -恐怖冒险游戏(未下载） 失忆症：黑暗后裔（Amnesia: The Dark Descent） -恐怖冒险游戏(未下载） 洪潮之焰 (The Flame in the Flood) -生存roguelike游戏(未下载） 刺客信条2 (Assassins Creed II) -第三人称冒险类单机游戏(未下载） 刺客信条4:黑旗 (Assassins Creed IV: Black Flag) -第三人称冒险类单机游戏(未下载） 网络游戏 绝地求生大逃杀 彩虹六号 荣耀战魂 （未下载) 传送门2 (未下载） 全面吃鸡模拟器 求生之路 （未下载） 守望先锋（未下载） GALGAMEsteam eden* 寒蝉鸣泣之时 花吻在上本地 命运石之门 巧克力香子兰 美少女万花镜 May-Be SOFT LOVELY×CATION 2]]></content>
-      <tags>
-        <tag>Steam</tag>
-        <tag>Games</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
